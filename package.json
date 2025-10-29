@@ -1,0 +1,7 @@
+{
+  "name": "coinbase-relay",
+  "type": "module",
+  "dependencies": {
+    "ws": "^8.17.0"
+  }
+}
